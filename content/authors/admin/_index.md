@@ -6,15 +6,15 @@ title: Yixiao Li
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate of EE
+role: ML PhD Student in Georgia Tech
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Science and Technology of China (USTC)
-  url: https://www.ustc.edu.cn/
+- name: Georgia Institute of Technology
+  url: https://www.gatech.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: USTC Undergraduate 
+bio: Machine Learning PhD Student 
 
 # Interests to show in About widget
 interests:
@@ -25,9 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Undergraduate of EE
+  - course: Ph.D. in Machine Learning
+    institution: Georgia Institute of Technology
+    year: 2022 - Now
+  - course: B.Eng. in Electronic Information Engineering
     institution: University of Science and Technology of China
-    year: 2022
+    year: 2018 - 2022
 
 
 # Social/Academic Networking
@@ -37,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:anyfine2123@mail.ustc.edu.cn'
+  link: 'yixiaoli@gatech.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/
@@ -56,14 +59,16 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CV.pdf
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "anyfine2123@mail.ustc.edu.cn"
+email: "yixiaoli@gatech.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+Yixiao Li is a 1st-year Ph.D student in [Machine Learning Ph.D. Program](https://ml.gatech.edu/phd) at [Georgia Institute of Technology](https://www.gatech.edu). He is interested in **machine learning** and **circuit design**. He works with Assistant Professor Tuo Zhao.
 
 Yixiao Li is a 4-year undergraduate student at the University of Science and Technology of China. He is interested in image and video processing. He is now working on his undergraduate thesis, mentored by Professor Zhibo Chen at USTC.
 
