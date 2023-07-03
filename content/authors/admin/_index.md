@@ -68,10 +68,6 @@ email: "yixiaoli@gatech.edu"
 highlight_name: true
 ---
 
-Yixiao Li is a 1st-year Ph.D student in [Machine Learning Ph.D. Program](https://ml.gatech.edu/phd) at [Georgia Institute of Technology](https://www.gatech.edu). He is interested in **machine learning** and **circuit design**. He works with Assistant Professor Tuo Zhao.
+Welcome to my webpage! I’m Yixiao(yee shiaw) Li (李一肖),  a 2nd-year Ph.D student in [Machine Learning Ph.D. Program](https://ml.gatech.edu/phd) at [Georgia Institute of Technology](https://www.gatech.edu). I’m interested in **machine learning** and **circuit design**. I am so fortunate to work with Assistant Professor [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) in FLASH (Foundations of LeArning Systems for alcHemy) research group. I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China (USTC). My undergraduate advisor is Professor [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/). 
 
-Yixiao Li is a 4-year undergraduate student at the University of Science and Technology of China. He is interested in image and video processing. He is now working on his undergraduate thesis, mentored by Professor Zhibo Chen at USTC.
-
-He had an internship in UCLA, supervised by Assistant Professor Nanyun Peng, woking on Commonsense Reasoning, where he became interested in NLP.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="Download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
