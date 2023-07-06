@@ -1,4 +1,33 @@
+---
+title: RemoteSprinkler-Homekit
+summary: A electric sprinkler you can control through your Home App
+tags:
+- Electronic Engineering
+- Development 
+date: "2023-05-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Sprinkler Diagram
+  focal_point: Smart
+
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/yxli2123/PROJ_eggbotApp
+
+
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+---
+
 # RemoteSprinkler-Homekit
+
 Remotely control sprinklers to water plants on the balcony through Apple HomeKit
 
 ## Overview
@@ -7,7 +36,7 @@ The following illustration demostrates the overview of the remote sprinkler cont
 -  The stem: sprinklers, water pipes, solenoid valves, T-shape diverters, and a 4' to 2' convertor.
 -  The controller: a 4-channel relay and a ESP8266 chip. They are ensembled on a single board.
 
-![overview](overview.png)
+![overview](featured.png)
 
 Notice: The input voltage of solenoid valve is 12V while the board is 5V, so a 12V to 5V convertor is needed in this system. You may find a 5V solenoid valve to avoid the voltage convertor.
 
