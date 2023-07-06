@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Yixiao Li | 李一肖
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 ---

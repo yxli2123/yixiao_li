@@ -17,7 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/yxli2123/PROJ_eggbotApp
+  url: https://github.com/yxli2123/SmartHome
 
 
 url_pdf: ""
