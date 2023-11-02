@@ -11,4 +11,13 @@ sections:
       title: Yixiao Li, 李一肖
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+
 ---
