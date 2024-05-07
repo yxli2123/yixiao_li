@@ -57,7 +57,21 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-  _merge: deep
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true
 related:
   threshold: 80
   includeNewer: true
